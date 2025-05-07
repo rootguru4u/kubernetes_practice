@@ -8,4 +8,4 @@
 chmod +x ./kind
 sudo cp ./kind /usr/local/bin/kind
 
-rm -rf kindd
+rm -rf kind
